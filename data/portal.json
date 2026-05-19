@@ -3,22 +3,13 @@
   "headline": "One portfolio. Multiple property opportunities.",
   "subheadline": "Browse BAG Property Holdings rental and sale listings from one clean public landing page, then open the dedicated site for each property.",
   "contactEmail": "sujitbag@gmail.com",
-  "contactPhone": "6477101597",
+  "contactPhone": "",
   "ctaPrimaryLabel": "Browse Properties",
   "ctaSecondaryLabel": "Contact Us",
   "notice": "Availability, pricing, and listing details are subject to change. Please review each property page for the latest information.",
   "stats": [
-    {
-      "label": "Property pages",
-      "value": "3"
-    },
-    {
-      "label": "Portfolio control",
-      "value": "Static + Admin"
-    },
-    {
-      "label": "Primary contact",
-      "value": "Email"
-    }
+    { "label": "Property pages", "value": "3" },
+    { "label": "Portfolio control", "value": "Static + Admin" },
+    { "label": "Primary contact", "value": "Email" }
   ]
 }
