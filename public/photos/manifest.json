@@ -1,5 +1,11 @@
 [
   {
+    "filename": "portfolio-photo-2.jpg",
+    "src": "/photos/portfolio-photo-2.jpg",
+    "title": "Portfolio image",
+    "alt": "Portfolio image"
+  },
+  {
     "filename": "portfolio-photo.jpg",
     "src": "/photos/portfolio-photo.jpg",
     "title": "Portfolio Photo",

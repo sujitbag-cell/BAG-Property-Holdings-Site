@@ -3,19 +3,70 @@
     "id": "fort-erie-courtwright",
     "enabled": true,
     "badge": "For Rent",
-    "title": "Furnished Bedroom for Rent \u2013 Fort Erie Near Lakeshore Area",
+    "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area",
     "location": "Fort Erie, near Lakeshore Area",
     "summary": "Comfortable, fully furnished one-bedroom in a quiet Fort Erie home near the lakeshore, with shared amenities and easy access to local services.",
-    "price": "$650\u2013$750 / month",
+    "price": "$650–$750 / month",
     "availability": "Available Immediately",
     "siteUrl": "#update-link-in-admin",
-    "coverImage": "/photos/fort-erie-placeholder.svg",
+    "coverImage": "/photos/fort-erie-courtwright-cover-4.jpg",
     "features": [
       "Utilities included",
       "High-speed internet",
       "Single occupancy"
     ],
-    "galleryImages": []
+    "galleryImages": [
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-11.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 1",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 1"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-12.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 2",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 2"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-14.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 4",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 4"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-15.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 5",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 5"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-16.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 6",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 6"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-17.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 7",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 7"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-20.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 10",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 10"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-13.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 8",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 8"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-18.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 9",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 9"
+      },
+      {
+        "src": "/photos/fort-erie-courtwright-gallery-19.jpg",
+        "title": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area gallery photo 10",
+        "alt": "Furnished Bedroom for Rent – Fort Erie Near Lakeshore Area property photo 10"
+      }
+    ]
   },
   {
     "id": "mississauga-m-city",
@@ -27,13 +78,64 @@
     "price": "Price and terms negotiable",
     "availability": "Condo for Sale",
     "siteUrl": "#update-link-in-admin",
-    "coverImage": "/photos/mississauga-placeholder.svg",
+    "coverImage": "/photos/mississauga-m-city-cover-3.jpg",
     "features": [
       "2 bedrooms",
       "2 bathrooms",
       "1 parking spot"
     ],
-    "galleryImages": []
+    "galleryImages": [
+      {
+        "src": "/photos/mississauga-m-city-gallery-11.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 1",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 1"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-12.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 2",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 2"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-13.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 3",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 3"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-14.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 4",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 4"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-15.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 5",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 5"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-16.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 6",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 6"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-17.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 7",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 7"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-18.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 8",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 8"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-19.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 9",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 9"
+      },
+      {
+        "src": "/photos/mississauga-m-city-gallery-20.jpg",
+        "title": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga gallery photo 10",
+        "alt": "Luxury 2 Bedroom, 2 Bath Condo for Sale Near Square One, Mississauga property photo 10"
+      }
+    ]
   },
   {
     "id": "timberlane-york",
@@ -42,15 +144,66 @@
     "title": "Furnished Room for Rent Near York University",
     "location": "Near York University, Keele Campus, Toronto",
     "summary": "Clean, quiet, and move-in ready shared housing for responsible tenants.",
-    "price": "$750\u2013$900 / month",
+    "price": "$750–$900 / month",
     "availability": "Available Immediately",
     "siteUrl": "#update-link-in-admin",
-    "coverImage": "/photos/york-placeholder.svg",
+    "coverImage": "/photos/timberlane-york-cover-3.jpg",
     "features": [
       "Utilities included",
       "High-speed internet",
       "Furnished bedroom"
     ],
-    "galleryImages": []
+    "galleryImages": [
+      {
+        "src": "/photos/timberlane-york-gallery-11.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 1",
+        "alt": "Furnished Room for Rent Near York University property photo 1"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-12.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 2",
+        "alt": "Furnished Room for Rent Near York University property photo 2"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-13.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 3",
+        "alt": "Furnished Room for Rent Near York University property photo 3"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-14.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 4",
+        "alt": "Furnished Room for Rent Near York University property photo 4"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-15.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 5",
+        "alt": "Furnished Room for Rent Near York University property photo 5"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-16.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 6",
+        "alt": "Furnished Room for Rent Near York University property photo 6"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-17.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 7",
+        "alt": "Furnished Room for Rent Near York University property photo 7"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-18.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 8",
+        "alt": "Furnished Room for Rent Near York University property photo 8"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-19.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 9",
+        "alt": "Furnished Room for Rent Near York University property photo 9"
+      },
+      {
+        "src": "/photos/timberlane-york-gallery-20.jpg",
+        "title": "Furnished Room for Rent Near York University gallery photo 10",
+        "alt": "Furnished Room for Rent Near York University property photo 10"
+      }
+    ]
   }
 ]
