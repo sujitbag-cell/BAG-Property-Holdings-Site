@@ -1,0 +1,22 @@
+{
+  "name": "bag-property-holdings-landing-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "npm run photos:manifest && next build",
+    "start": "next start",
+    "check": "npm run build",
+    "photos:manifest": "node scripts/generate-photo-manifest.mjs",
+    "admin:portal": "node tools/portal-admin-server.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "1.14.0",
+    "next": "16.2.6",
+    "react": "19.2.5",
+    "react-dom": "19.2.5"
+  },
+  "engines": {
+    "node": ">=20.9.0"
+  }
+}

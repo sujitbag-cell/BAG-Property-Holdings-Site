@@ -1,0 +1,7 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#C8D7E1"/><stop offset="1" stop-color="#F3E9DC"/></linearGradient></defs>
+  <rect width="1200" height="760" rx="40" fill="url(#g)"/>
+  <rect x="80" y="80" width="1040" height="600" rx="34" fill="white" fill-opacity="0.72"/>
+  <text x="120" y="310" fill="#23303A" font-family="Arial, sans-serif" font-size="54" font-weight="700">Fort Erie Rental</text>
+  <text x="120" y="382" fill="#425563" font-family="Arial, sans-serif" font-size="30">Upload a cover photo through the admin portal</text>
+</svg>
